@@ -1,7 +1,4 @@
 serdar has created this not'
-<<<<<<< HEAD
-I wrote this line on serdar branach
-=======
-awddasasd
-i added this line now really from branch selcuk
->>>>>>> selcuk
+
+I wrote this line on serdar branach  from branch selcuk
+
