@@ -1,6 +1,6 @@
-<<<<<<< Updated upstream
 
-=======
 i will try to have conflict in stashing
->>>>>>> Stashed changes
+
+i will try to have conflict in stashing
+
 wrote this line on serdar branach
