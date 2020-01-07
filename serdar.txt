@@ -1,2 +1,6 @@
-it is my conflict
+<<<<<<< Updated upstream
+
+=======
+i will try to have conflict in stashing
+>>>>>>> Stashed changes
 wrote this line on serdar branach
